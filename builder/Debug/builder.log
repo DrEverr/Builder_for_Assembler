@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\stas\source\repos\builder\builder\main.c(38): warning C4477: „printf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 3 ze zmienną liczbą argumentów ma typ „int”
+c:\users\stas\source\repos\builder\builder\main.c(40): warning C4477: „sprintf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „int”
+  builder.vcxproj -> C:\Users\Stas\source\repos\builder\Debug\builder.exe
