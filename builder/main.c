@@ -48,10 +48,8 @@ int main(int argc, char **argv) {
 			}
 			free(libs);
 		}
-
 		system(command);
 		return 0;
 	}
-
 	return 0;
 }
